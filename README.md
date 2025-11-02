@@ -27,9 +27,4 @@ python --version
 🔹 Using Command Line (Windows):
 Bash:
 cd Desktop\python practice\loops
-python loop_practice.py
-
-🔹 Using Bash Script (Linux/macOS):
-Bash:
-chmod +x run.sh
-./run.sh
+python loop_topic.py
