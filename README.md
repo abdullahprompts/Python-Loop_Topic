@@ -19,8 +19,17 @@ This repository contains practical examples of Python loops — both `for` and `
 - How to format output for readability
 
 ## 🛠️ How to Run
+Make sure Python is installed and added to your system path.
+You can verify by running:
+Bash:
+python --version
 
-Make sure Python is installed. Then run the file using:
+🔹 Using Command Line (Windows):
+Bash:
+cd Desktop\python practice\loops
+python loop_practice.py
 
-```bash
-python loop_topic/loop_examples.py
+🔹 Using Bash Script (Linux/macOS):
+Bash:
+chmod +x run.sh
+./run.sh
